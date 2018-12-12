@@ -1,0 +1,26 @@
+{
+  "name": "webpage-template",
+  "version": "1.0.0",
+  "description": "Node.js template for a web page using Express, HBS and SemanticUI.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalejodc/node-template.git"
+  },
+  "keywords": [
+    "semanticui",
+    "node",
+    "webpage",
+    "express",
+    "hbs"
+  ],
+  "author": "Daniel Díaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dalejodc/node-template/issues"
+  },
+  "homepage": "https://github.com/dalejodc/node-template#readme"
+}
