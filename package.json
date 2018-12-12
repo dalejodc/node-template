@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/dalejodc/node-template/issues"
   },
-  "homepage": "https://github.com/dalejodc/node-template#readme"
+  "homepage": "https://github.com/dalejodc/node-template#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
