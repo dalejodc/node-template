@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/dalejodc/node-template#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "hbs": "^4.0.1"
   }
 }
