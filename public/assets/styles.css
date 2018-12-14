@@ -7,12 +7,20 @@
 	color: white !important;
 }
 
+.black-text{
+	color: black !important;
+}
+
+.bold{
+	font-weight: 600 !important;
+}
+
 .violet-text{
 	color: #7E6EE6 !important;
 }
 
 .light-violet{
-	background-color: #7E6EE6;
+	background-color: #7E6EE6 !important;
 }
 .light-violet-2{
 	background-color: #E7E4FC !important;
@@ -126,6 +134,29 @@
 	text-decoration: none;
 	border-radius: 3px;
 }
+
+.dark-button{
+	padding-top: 15px !important;
+	padding-bottom: 15px !important;
+	cursor: pointer;
+	display: inline-block;
+	min-height: 1em;
+	outline: none;
+	border: none;
+	vertical-align: baseline;
+	background: #1E2631 ;
+	color: white;
+	margin: 0em 0.25em 0em 0em;
+	padding: 0.78571429em 1.5em 0.78571429em;
+	text-transform: none;
+	text-shadow: none;
+	font-weight: bold;
+	line-height: 1em;
+	font-style: normal;
+	text-align: center;
+	text-decoration: none;
+	border-radius: 3px;
+}
 .header-image{
 	background-image: url("/images/header1.png");
 	background-color: #7E6EE6;
@@ -135,7 +166,15 @@
 }
 
 .mar-top{
-	margin-top: 25px;
+	margin-top: 25px !important;
+}
+
+.mar-bot{
+	margin-bottom: 25px !important;
+}
+
+.mar-left{
+	margin-left: 35px !important;
 }
 
 .mar-bot-60{
