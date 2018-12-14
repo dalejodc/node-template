@@ -33,6 +33,11 @@
 	margin-left: 22%
 }
 
+.container-solutions{
+	padding-right: 6em !important;
+	padding-left: 3em !important;
+}
+
 .ui.container {
 	padding-top: 10em !important;
     width: auto !important;
