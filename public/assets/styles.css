@@ -3,6 +3,13 @@
 	height: 100%;
 	min-height: 102.5vh;
 }
+.white-text{
+	color: white !important;
+}
+
+.violet-text{
+	color: #7E6EE6 !important;
+}
 
 .light-violet{
 	background-color: #7E6EE6;
@@ -10,6 +17,10 @@
 
 .dark-blue{
 	background-color: #151E29;
+}
+
+#card-p{
+	color:#A7A7AF;
 }
 
 .dark-blue-2{
@@ -36,8 +47,6 @@
 #card2{
 	border-top: #F27B7C solid 5px !important;
 }
-
-
 
 #title{
 	color:white !important;
