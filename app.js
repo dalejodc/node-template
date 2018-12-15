@@ -5,6 +5,8 @@ const hbs = require('hbs');
 //To make public a dir
 app.use(express.static(__dirname + '/public'));
 
+const port = process.env.port;
+
 //Using HBS as the default view engine
 hbs.registerPartials(__dirname + '/views/partials')
 app.set('view engine', 'hbs');
@@ -13,6 +15,6 @@ app.get('/', function (req, res) {
   res.render('home', {title: 'Home'});
 })
 
-app.listen(3000, () => {
-  console.log('Running in the port 3000');
+app.listen(port, () => {
+  console.log(`Running in the port ${port}`);
 })
