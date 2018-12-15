@@ -15,8 +15,8 @@ app.get('/', function (req, res) {
   res.render('home', {title: 'Home'});
 })
 
-console.log(port);
+console.log(PORT);
 
-app.listen(port, () => {
-  console.log(`Running in the port ${port}`);
+app.listen(PORT, () => {
+  console.log(`Running in the port ${PORT}`);
 })
