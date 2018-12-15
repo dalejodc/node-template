@@ -189,6 +189,14 @@
 	right: 0;
 }
 
+/* The father has to be relative */
+#middle-circle{
+	position: absolute; 
+	top: 0;
+	bottom: 0;
+	left: 7em;
+}
+
 #circle-line{
 	position: absolute;
 	padding-top: 60px;
