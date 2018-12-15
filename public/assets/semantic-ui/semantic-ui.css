@@ -5403,7 +5403,7 @@ body .ui.inverted::-webkit-scrollbar-thumb:hover {
 
 /* Inside grid */
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 910px) {
   .ui.stackable.grid .ui.vertical.divider,
   .ui.grid .stackable.row .ui.vertical.divider {
     display: table;
