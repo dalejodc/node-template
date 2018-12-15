@@ -4,6 +4,7 @@
   "description": "Node.js template for a web page using Express, HBS and SemanticUI.",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
