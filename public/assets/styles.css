@@ -180,3 +180,13 @@
 .mar-bot-60{
 	margin-bottom: 60px;
 }
+
+#circle{
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+.ui.segment {
+	border: 0 !important;
+}
