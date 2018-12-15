@@ -8,6 +8,10 @@
 	color: white !important;
 }
 
+.white-text-2{
+	color: #A7A7AF !important;
+}
+
 .black-text{
 	color: black !important;
 }
@@ -206,4 +210,14 @@
 
 .ui.segment {
 	border: 0 !important;
+}
+
+.footer{
+	background-color: #151E29;
+	padding-top: 8em !important;
+	padding-bottom: 4em !important;
+	padding-left: 4em !important;
+    width: auto !important;
+    margin-left: 6em !important;
+    margin-right: 6em !important;
 }
