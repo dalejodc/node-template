@@ -5,7 +5,7 @@ const hbs = require('hbs');
 //To make public a dir
 app.use(express.static(__dirname + '/public'));
 
-const port = process.env.port || 3000;
+const PORT = process.env.PORT || 5000;
 
 //Using HBS as the default view engine
 hbs.registerPartials(__dirname + '/views/partials')
