@@ -14,8 +14,15 @@ app.set('view engine', 'hbs');
 app.get('/', function (req, res) {
   res.render('home', {
     title: 'Home',
-    hi: new Date().getFullYear()
+    year: new Date().getFullYear()
   });
+})
+
+app.get('/started', (req, res)=>{
+  res.render('started',{
+    title: 'Get started',
+    year: new Date().getFullYear()
+  })
 })
 
 console.log(PORT);

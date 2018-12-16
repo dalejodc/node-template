@@ -36,6 +36,10 @@
 	position: relative;
 }
 
+.dark-blue-text{
+	color: #151E29;
+}
+
 .light-red{
 	background-color: #FDE5E5 !important;
 }
@@ -61,6 +65,16 @@
 .container-solutions{
 	padding-right: 6em !important;
 	padding-left: 3em !important;
+}
+
+.container-started{
+	padding-right: 6em !important;
+	padding-left: 6em !important;
+	padding-top: 6em !important;
+}
+
+.started-icons{
+	margin-top: 8em;
 }
 
 .ui.container {
