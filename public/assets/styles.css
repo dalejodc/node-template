@@ -70,7 +70,7 @@
 .container-started{
 	padding-right: 6em !important;
 	padding-left: 6em !important;
-	padding-top: 6em !important;
+	padding-top: 3em !important;
 }
 
 .started-icons{
@@ -249,3 +249,14 @@
 	color: white !important;
 	font-weight: 600 !important;
 }
+
+.ui.breadcrumb .section {
+    display: inline;
+    margin-left: 0em;
+    padding: 0em;
+}
+
+.ui.breadcrumb .active.section {
+    color: #151E29;
+}
+  
