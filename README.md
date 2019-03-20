@@ -2,7 +2,7 @@
 🚀 Node.js template for a web page using Express, HBS and SemanticUI.
 
 ## Demo
- [Go to demo](https://webpage-nodejs.herokuapp.com/)
+ [Go to demo](https://startup-page.herokuapp.com/)
 
 ![imagen](https://user-images.githubusercontent.com/36966980/50064047-a6ee9b00-0174-11e9-9a92-cfd1b9971620.png)
 
